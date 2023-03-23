@@ -10,10 +10,16 @@ The SQL queries performed were aimed at exploring data related to Covid vaccinat
 Summary:
 
 Counted rows in CovidVaccinations and CovidDeaths tables.
+
 Described the structure of CovidVaccinations and CovidDeaths tables.
+
 Examined CovidDeaths table and retrieved location-wise daily total cases and deaths due to Covid, location-wise daily percentage of total cases and deaths due to Covid, location-wise monthly total cases and deaths due to Covid, location-wise monthly percentage of total cases and deaths due to Covid, location-wise yearly total cases and deaths due to Covid, and location-wise yearly percentage of total cases and deaths due to Covid.
+
 Populated daily total cases from new cases in CovidDeaths table.
+
 Ranked countries by total cases in Continent and overall.
+
 Created a view for CovidDeaths in India.
+
 Examined CovidVaccinations table and retrieved location-wise daily total vaccinations due to Covid, location-wise daily percentage of total vaccinations, and location-wise monthly total vaccinations.
 
